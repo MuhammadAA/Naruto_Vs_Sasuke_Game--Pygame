@@ -1,4 +1,4 @@
-# Naruto_Vs_Sasuke-Project--Pygame
+# Naruto_Vs_Sasuke_Game--Pygame
 A 2 player Anime game! Made using Pygame and Python.
 
 
